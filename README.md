@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ZeidanK
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ZeidanK/ZeidanK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+will start on mastering bitcoin by Andreas M.Antonopoulos after following him so long on youtube, its time to see what all this bitcoin stuff is about.
+already had a first look at the book, and im very excited to learn and and understan the bitcoin code better, i expect to lean more aboout peer to peer
+connection, and improve my C++ skills, and adding python to my arsenal can only improve me as a coder.
